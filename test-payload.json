@@ -1,0 +1,9 @@
+{
+  "builder":"build_android",
+  "reason":"<none>",
+  "branch":"master",
+  "revision":"",
+  "properties":{
+    "postbackurl":"http://iets.nl/"
+  }
+}

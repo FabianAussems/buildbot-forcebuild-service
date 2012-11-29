@@ -1,0 +1,4 @@
+Twisted==12.0.0
+distribute==0.6.19
+wsgiref==0.1.2
+zope.interface==3.8.0
